@@ -308,6 +308,14 @@ PRODUCT_PACKAGES += \
     QSSurround \
     QSThin 
 
+# Settings Themes
+PRODUCT_PACKAGES += \
+    AOSPSettingsOverlay \
+    ArcSettingsOverlay \
+    CardSettingsOverlay \
+    MaterialSettingsOverlay \
+    RUISettingsOverlay
+
 # Lockscreen clock fonts
 PRODUCT_PACKAGES += \
     ClockFontAlienLeagueOverlay \
