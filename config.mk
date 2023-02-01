@@ -301,6 +301,18 @@ PRODUCT_PACKAGES += \
     QSOutline \
     QSTwoToneAccent
 
+# Lockscreen clock fonts
+PRODUCT_PACKAGES += \
+    ClockFontAlienLeagueOverlay \
+    ClockFontBalticBoddenOverlay \
+    ClockFontBalticStormOverlay \
+    ClockFontBigNoodleTiltingOverlay \
+    ClockFontMXWasgardOverlay \
+    ClockFontProdeltCoOverlay \
+    ClockFontRoadRageOverlay \
+    ClockFontTourneyMediumOverlay \
+    ClockFontZeroFourOverlay
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
