@@ -311,7 +311,12 @@ PRODUCT_PACKAGES += \
     ClockFontProdeltCoOverlay \
     ClockFontRoadRageOverlay \
     ClockFontTourneyMediumOverlay \
-    ClockFontZeroFourOverlay
+    ClockFontZeroFourOverlay \
+    ClockFontCatOverlay \
+    ClockFontConcentrateOverlay \
+    ClockFontKarmaticArcadeOverlay \
+    ClockFontLiquidCrystalOverlay \
+    ClockFontVG5000Overlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
