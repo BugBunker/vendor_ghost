@@ -318,6 +318,53 @@ PRODUCT_PACKAGES += \
     ClockFontLiquidCrystalOverlay \
     ClockFontVG5000Overlay
 
+# Lockscreen date fonts
+PRODUCT_PACKAGES += \
+    DateFontAlienLeagueOverlay \
+    DateFontBalticBoddenOverlay \
+    DateFontBalticStormOverlay \
+    DateFontBigNoodleTiltingOverlay \
+    DateFontMXWasgardOverlay \
+    DateFontProdeltCoOverlay \
+    DateFontRoadRageOverlay \
+    DateFontTourneyMediumOverlay \
+    DateFontZeroFourOverlay \
+    DateFontCatOverlay \
+    DateFontConcentrateOverlay \
+    DateFontKarmaticArcadeOverlay \
+    DateFontLiquidCrystalOverlay \
+    DateFontAccuratistOverlay \
+    DateFontApiceOverlay \
+    DateFontAudimatOverlay \
+    DateFontBariolOverlay \
+    DateFontCoconOverlay \
+    DateFontComfortaaOverlay \
+    DateFontComicSansOverlay \
+    DateFontCoolstoryOverlay \
+    DateFontExotwoOverlay \
+    DateFontEvolveSansOverlay \
+    DateFontFluidSansOverlay \
+    DateFontGoogleSansOverlay \
+    DateFontGeometosOverlay \
+    DateFontHarmonySansOverlay \
+    DateFontJTLeonorOverlay \
+    DateFontLinotteOverlay \
+    DateFontMiSansOverlay \
+    DateFontNokiaPureOverlay \
+    DateFontNothingDotHeadlineOverlay \
+    DateFontOneplusSansOverlay \
+    DateFontOneplusSlateOverlay \
+    DateFontOppoSansOverlay \
+    DateFontProductSansVHOverlay \
+    DateFontRobotoCondensedOverlay \
+    DateFontRosemaryOverlay \
+    DateFontRubikOverlay \
+    DateFontSanFranciscoDisplayProSourceOverlay \
+    DateFontSamsungOneOverlay \
+    DateFontSimpleDaySourceOverlay \
+    DateFontSonySketchOverlay \
+    DateFontVG5000Overlay
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
