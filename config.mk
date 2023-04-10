@@ -298,9 +298,8 @@ PRODUCT_PACKAGES += \
 
 # QS Panel
 PRODUCT_PACKAGES += \
-    QSRoundedRectangle \
     QSOutline \
-    QSTwoToneAccen
+    QSTwoToneAccent
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
