@@ -361,5 +361,8 @@ PRODUCT_PACKAGES += \
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
 
+$(call inherit-product, vendor/addons/prebuilt/bootanimation/bootanimation.mk)
+PRODUCT_BRAND ?= GhostOS
+
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
