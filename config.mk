@@ -240,8 +240,12 @@ PRODUCT_PACKAGES += \
 	BarsWiFiOverlay \
 	DoraSignalOverlay \
 	DoraWiFiOverlay \
+    GradiconSignalOverlay \
+	GradiconWiFiOverlay \
 	InsideSignalOverlay \
 	InsideWiFiOverlay \
+    NothingDotSignalOverlay \
+	NothingDotWiFiOverlay \
 	RoundSignalOverlay \
 	RoundWiFiOverlay \
 	SneakySignalOverlay \
