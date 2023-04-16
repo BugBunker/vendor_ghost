@@ -192,7 +192,9 @@ PRODUCT_PACKAGES += \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineSystemUIOverlay \
     IconPackAcherusAndroidOverlay \
-    IconPackAcherusSystemUIOverlay
+    IconPackAcherusSystemUIOverlay \
+    IconPackXperiaAndroidOverlay \
+    IconPackXperiaSystemUIOverlay \
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
