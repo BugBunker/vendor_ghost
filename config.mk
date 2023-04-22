@@ -375,6 +375,10 @@ PRODUCT_PACKAGES += \
     DateFontSonySketchOverlay \
     DateFontVG5000Overlay
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
