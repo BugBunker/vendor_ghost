@@ -312,7 +312,20 @@ PRODUCT_PACKAGES += \
     BrightnessSliderRealme2Overlay \
     BrightnessSliderSemyOverlay \
     BrightnessSliderSwapOverlay \
-    BrightnessSliderSwap2Overlay
+    BrightnessSliderSwap2Overlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderGradiantOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOutlineOverlay \
+    BrightnessSliderTranslucentOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderOldSchoolThumbOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderThumbSliderOverlay \
+    BrightnessSliderLineOverlay \
+    BrightnessSliderLightyOverlay
 
 # QS Panel
 PRODUCT_PACKAGES += \
