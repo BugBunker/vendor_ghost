@@ -269,6 +269,7 @@ PRODUCT_PACKAGES += \
     OdinSignalOverlay \
     FanSignalOverlay \
     HuaweiSignalOverlay \
+    WingSignalOverlay \
 	ZigZagWiFiOverlay
 
 # Data icons
