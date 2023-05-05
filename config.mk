@@ -195,6 +195,14 @@ PRODUCT_PACKAGES += \
     IconPackAcherusSystemUIOverlay \
     IconPackXperiaAndroidOverlay \
     IconPackXperiaSystemUIOverlay \
+    IconPackPlumpySystemUIOverlay \
+    IconPackPlumpyAndroidOverlay \
+    IconPackAuroraAndroidOverlay \
+    IconPackAuroraSystemUIOverlay \
+    IconPackGradiconAndroidOverlay \
+    IconPackGradiconSystemUIOverlay \
+    IconPackLornAndroidOverlay \
+    IconPackLornSystemUIOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
