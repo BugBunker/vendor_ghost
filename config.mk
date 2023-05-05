@@ -258,6 +258,17 @@ PRODUCT_PACKAGES += \
 	XperiaSignalOverlay \
 	XperiaWiFiOverlay \
 	ZigZagSignalOverlay \
+    AquariumSignalOverlay \
+    ButterflySignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    DeepSignalOverlay \
+    EqualSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    OdinSignalOverlay \
+    FanSignalOverlay \
+    HuaweiSignalOverlay \
 	ZigZagWiFiOverlay
 
 # Data icons
