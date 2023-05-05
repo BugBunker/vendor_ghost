@@ -214,7 +214,11 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     RiceBallsOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    IconShapeScrollOverlay \
+    IconShapeIosOverlay \
+    IconShapeRohieMeowOverlay \
+    IconShapeLeafyOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
