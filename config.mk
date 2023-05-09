@@ -303,7 +303,16 @@ PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
     BrightnessSliderThinOverlay \
     BrightnessSliderAcunOverlay \
-    BrightnessSliderBangOverlay
+    BrightnessSliderBangOverlay \
+    BrightnessSliderBangOverlay \
+    BrightnessSliderBang2Overlay \
+    BrightnessSliderNeumorphOverlay \
+    BrightnessSliderNeumorph2Overlay \
+    BrightnessSliderRealmeOverlay \
+    BrightnessSliderRealme2Overlay \
+    BrightnessSliderSemyOverlay \
+    BrightnessSliderSwapOverlay \
+    BrightnessSliderSwap2Overlay
 
 # QS Panel
 PRODUCT_PACKAGES += \
