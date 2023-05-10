@@ -40,8 +40,8 @@
 android:shape="rectangle">
 						<size android:height="35.0dip" />
 					<gradient 
-       android:startColor="@*android:color/accent_material_dark"
-       android:endColor="@*android:color/holo_orange_light"
+       android:startColor="@android:color/system_accent1_300"
+       android:endColor="@android:color/system_accent2_300"
        android:angle="0.0" />
 							<corners 
   		android:bottomLeftRadius="10dp" 
@@ -57,8 +57,8 @@ android:shape="rectangle">
 					<shape  android:shape="rectangle">
 						<size android:height="35.0dip" />
 				<gradient 
-       android:startColor="@*android:color/accent_material_dark"
-       android:endColor="@*android:color/holo_orange_light"
+       android:startColor="@android:color/system_accent1_300"
+       android:endColor="@android:color/system_accent2_300"
        android:angle="0.0" />
 								<corners 
   	android:bottomLeftRadius="10dp" 

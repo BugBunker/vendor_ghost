@@ -54,8 +54,8 @@
                 android:width="0dip" 
                 android:color="#ff000000" />
          <gradient 
-       android:startColor="@*android:color/accent_material_dark"
-       android:endColor="@*android:color/holo_orange_light"
+       android:startColor="@android:color/system_accent2_300"
+       android:endColor="@android:color/system_accent1_300"
        android:angle="0.0" />
                 <corners 
                 android:radius="19.0dip" />
