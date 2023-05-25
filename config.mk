@@ -288,7 +288,6 @@ PRODUCT_PACKAGES += \
     HuaweiSignalOverlay \
     HeartbeatSignalOverlay \
     InsideSignalOverlay \
-    IosSignalOverlay \
     MiniSignalOverlay \
     OdinSignalOverlay \
     PillsSignalOverlay \
@@ -315,7 +314,6 @@ PRODUCT_PACKAGES += \
     GlummySignalOverlay \
     GradiconSignalOverlay \
     HollowSignalOverlay \
-    IOSSignalOverlay \
     JapaneseSignalOverlay \
 	KoalaSignalOverlay \
 	LinealSignalOverlay \
@@ -385,7 +383,6 @@ PRODUCT_PACKAGES += \
 
 # Icon Data
 PRODUCT_PACKAGES += \
-    IconDataDefault \
     IconDataFive \
     IconDataFour \
     IconDataOne \
