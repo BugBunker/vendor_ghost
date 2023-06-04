@@ -253,18 +253,29 @@ PRODUCT_PACKAGES += \
     AndroidVividThemeOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
+    UnmonetThemeAndroidOverlay \
+    UnmonetThemeSettingsOverlay \
+    UnmonetThemeSystemUIOverlay \
+    NexodusThemeAndroidOverlay \
+    NexodusThemeSystemUIOverlay \
+    ProjectOptronicThemeAndroidOverlay \
+    ProjectOptronicThemeSettingsOverlay \
+    ProjectOptronicThemeSystemUIOverlay \
     PacleggersThemeAndroidOverlay \
     PacleggersThemeSettingsOverlay \
     PacleggersThemeSystemUIOverlay \
-    NexodusThemeAndroidOverlay \
-    NexodusThemeSettingsOverlay \
-    NexodusThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay \
     ShishuIllusionsThemeAndroidOverlay \
     ShishuIllusionsThemeSettingsOverlay \
     ShishuIllusionsThemeSystemUIOverlay \
     ShishuImmensityThemeAndroidOverlay \
     ShishuImmensityThemeSettingsOverlay \
     ShishuImmensityThemeSystemUIOverlay \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay \
     ShishuNightsThemeAndroidOverlay \
     ShishuNightsThemeSettingsOverlay \
     ShishuNightsThemeSystemUIOverlay \
